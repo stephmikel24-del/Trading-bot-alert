@@ -1,3 +1,4 @@
+n
 import requests
 import time
 from datetime import datetime
@@ -5,8 +6,8 @@ from datetime import datetime
 # ═══════════════════════════════════════════
 # YOUR PRIVATE DETAILS — FILL THESE IN
 # ═══════════════════════════════════════════
-TELEGRAM_TOKEN = "YOUR_TELEGRAM_TOKEN"  # Paste your new BotFather token here
-CHAT_ID        = "YOUR_CHAT_ID"         # We'll get this in a moment
+TELEGRAM_TOKEN = "8426730533:AAF1YFHvkORgjdWkdbchMFktY8Ga4uQ5JWE"  # Paste your new BotFather token here
+CHAT_ID        =  "6879729980"        # We'll get this in a moment
 
 TIMEFRAMES = ["15", "240"]  # 15m and 4H
 CHECK_INTERVAL = 60  # checks every 60 seconds
